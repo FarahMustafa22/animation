@@ -9,16 +9,19 @@
     }
     50% {
         margin-left: 80%;
-        margin-top: 80%;
+        margin-top: 35%;
     }
     75% {
         margin-left: 0%;
-        margin-top: 80%;
+        margin-top: 35%;
     }
     
     100% {
         
-        margin-left: 50%;
+        
+        margin-left: 40%;
+        margin-top: 10%;
+
     }
 }
 
